@@ -10,7 +10,7 @@ A **full-stack e-commerce solution** demonstrating end-to-end product management
 
 ## 🧰 Tech Stack
 **Backend:** Spring Boot • JPA/Hibernate • MySQL  
-**Frontend:** Angular • RxJS • Angular Material
+**Frontend:** Angular • Angular Material
 
 ## ⚙️ Architecture
 Monorepo: `/backend` + `/frontend`
